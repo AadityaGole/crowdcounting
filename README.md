@@ -3,12 +3,12 @@
 
 ## Description
 
-This project aims to accurately count the number of people present in a cafe in real-time while excluding employees. Utilizing computer vision techniques and machine learning models, the system distinguishes between customers and staff to provide stable and accurate counts.
+This project aims to accurately count the number of people present in a cafe in real-time while excluding employees. Utilizing computer vision techniques and machine learning models, the system distinguishes between customers and staff to provide stable and accurate counts. For a short and simple overview check presentation and for a more detailed overview check the report
 
 ## Links
 
-- [Project Presentation](http://xyz.com/presentation)
-- [Project Report](http://xyz.com/report)
+- [Project Presentation](https://github.com/AadityaGole/crowdcounting/blob/main/crowdcounting.pptx)
+- [Project Report](https://github.com/AadityaGole/crowdcounting/blob/main/crowdcounting_report.pdf)
 
 ## Installation
 
@@ -36,10 +36,9 @@ This project aims to accurately count the number of people present in a cafe in 
 ## Project Structure
 
 - `headcap_crowdcounting.ipynb`: Jupyter Notebook containing the implementation.
-- `main.tex`: LaTeX source file for the project report.
+- `main.tex`: LaTeX source file for the project report. - inside crowdcountingreport.zip
 - `README.md`: This file.
-- `data/`: Directory containing video samples and trained models.
-- `results/`: Output directory for processed videos and results.
+- results stored in the root dir
 
 ## License
 
